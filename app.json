@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Vc Player",
+    "name": "Lost Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Veez Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/technicsachinworld/Zaid-Vc-Player",
+    "repository": "https://github.com/technicsachinworld/Lost-VC-Player",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
